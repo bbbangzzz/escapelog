@@ -1,6 +1,6 @@
 # 🏃🏻‍♀🏡  escapeLog
 
-https://youtu.be/1IIRAninmoo
+<iframe width="885" height="498" src="https://www.youtube.com/embed/1IIRAninmoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 # 📢  About
@@ -14,7 +14,7 @@ https://youtu.be/1IIRAninmoo
 
 # 📎YouTube
 
-https://youtu.be/n8XU5pxFIYY
+<iframe width="885" height="498" src="https://www.youtube.com/embed/n8XU5pxFIYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 
