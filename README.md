@@ -1,6 +1,5 @@
 # 🏃🏻‍♀🏡  escapeLog
-
-<iframe width="885" height="498" src="https://www.youtube.com/embed/1IIRAninmoo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![그룹 4](https://user-images.githubusercontent.com/81146625/169458828-f2ebe225-9f16-4d61-882b-197407a604cd.png)](https://youtu.be/1IIRAninmoo)
 <br><br>
 
 # 📢  About
@@ -14,7 +13,8 @@
 
 # 📎YouTube
 
-<iframe width="885" height="498" src="https://www.youtube.com/embed/n8XU5pxFIYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Web 1920 – 9](https://user-images.githubusercontent.com/81146625/169458494-edeae97a-9b4f-48c2-961a-1d7c173c926a.png)](https://youtu.be/1IIRAninmoo)
+
 <br><br>
 
 
