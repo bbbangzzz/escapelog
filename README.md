@@ -1,7 +1,6 @@
 # 🏃🏻‍♀🏡  escapeLog
 
-#### ![Image3](https://user-images.githubusercontent.com/81146632/151372262-91d96f93-aa1b-4f18-b2ae-6d5d99954ebf.jpg)
-
+https://youtu.be/1IIRAninmoo
 <br><br>
 
 # 📢  About
@@ -15,15 +14,13 @@
 
 # 📎YouTube
 
+https://youtu.be/n8XU5pxFIYY
 <br><br>
-
-
-
 
 
 # 🗒 Wiki
 
-https://github.com/shienka07/escapelog/wiki
+https://github.com/bbbangzzz/escapelog/wiki
 
 <br><br>
 
